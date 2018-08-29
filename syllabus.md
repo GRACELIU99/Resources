@@ -17,10 +17,10 @@ If you need help outside of class and office hours, use Slack or Piazza.
 - Blackboard
     - What: The default course site... not my favorite
     - Used for: traditional stuff (Announcements, class notes...)
-- [GitHub repositories](https://github.com/mis3690-2017summer)
+- [GitHub repositories](https://github.com/2018Fall-MIS3690-03)
     - What: Course GitHub repositories
     - Used for: materials; demo codes; homework/exam starter code.
-- [Slack message channel](https://mis3690-2017summer.slack.com)
+- [Slack message channel](mis3690-2018fall.slack.com)
     - What: Course Slack channel.
     - Used for: debugging help, clarifications, in-class real-time discussion and random chat.
 
