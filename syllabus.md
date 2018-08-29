@@ -62,9 +62,9 @@ There are no required texts for this course. All course material will be present
 ## Grading
 - In-Class Labs  	15%
 - Quizzes            5%
-	 Graded Homework  	20%
-	 Term Project  	30%
-	 Exam   	        30%
+- Graded Homework  	20% 
+- Term Project  	30%
+- Exam   	        30%
 
 | Grade | Range |
 | :-- | :-------: |
