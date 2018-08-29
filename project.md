@@ -34,7 +34,7 @@ All the HTML codes must be your own (the only exceptions are the tags used by a 
 To start your project, you need to create a new repository in GitHub. Add me([zli@babson.edu](zli@babson.edu)) as a collaborator on GitHub for that repo.
 
 
-## Project Proposal – **Due Tuesday, 9/13/2017, by 11:59 PM**
+## Project Proposal – **Due Tuesday, 9/13/2018, by 11:59 PM**
 This is a webpage that answers the following questions:
 
 - What is your website about? 
