@@ -13,7 +13,6 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ### Windows Text Editors
 - [VS Code](https://code.visualstudio.com)
 - [Sublime Text 3](https://www.sublimetext.com/)
-- [Atom](https://atom.io/)
 - [Notepad++](http://notepad-plus-plus.org/)
 
 ### Mac Text Editors
@@ -24,6 +23,8 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ## Tools
 - [JSFiddle](https://jsfiddle.net/)
 - [CodePen](http://codepen.io/)
+- [HTML Editor](https://htmlg.com/html-editor/)
+- [CSS CheatSheet](https://htmlcheatsheet.com/css/)
 - [CSS3 Generator](http://css3generator.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel//)
 - [Online Photo Editor](http://pixlr.com/editor/)
