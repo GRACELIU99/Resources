@@ -42,7 +42,7 @@ This is a webpage that answers the following questions:
 - Who is your target audience set?
 - What content do you plan to include in each page of your website? 
 
-As you think through your website, please remember that the page must have at least 4 pages of content besides the homepage, sitemap, and contact/feedback pages. At least one of these four pages must be two-levels below the home page (the landing point).
+As you think through your website, please remember that the ~~page~~website must have at least 4 pages of content besides the homepage, sitemap, and contact/feedback pages. At least one of these four pages must be two-levels below the home page (the landing point).
 
 This first version is worth **5 points**. 
 
