@@ -13,6 +13,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ### Windows Text Editors
 - [VS Code](https://code.visualstudio.com)
 - [Sublime Text 3](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
 - [Notepad++](http://notepad-plus-plus.org/)
 
 ### Mac Text Editors
@@ -23,8 +24,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ## Tools
 - [JSFiddle](https://jsfiddle.net/)
 - [CodePen](http://codepen.io/)
-- [HTML Editor](https://htmlg.com/html-editor/)
-- [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+- [JS Bin](https://jsbin.com)
 - [CSS3 Generator](http://css3generator.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel//)
 - [Online Photo Editor](http://pixlr.com/editor/)
@@ -54,3 +54,6 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [HTML5 Rocks - A resource for open web HTML5 developers](https://www.html5rocks.com/en/)
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [jQuery Cheat Sheets](http://www.javascripttoolbox.com/jquery/cheatsheet/)
+- [jQuery Quick API Reference](https://oscarotero.com/jquery/)
+- [Official jQuery introduction site](http://learn.jquery.com/)
