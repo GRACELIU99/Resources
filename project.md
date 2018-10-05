@@ -50,7 +50,7 @@ This first version is worth **5 points**.
 Please create it using a web page, save this page to project repository. Commit/push to GitHub.
 
 
-## Project Version 1 – **Due 10/10/2018, by 11:59 PM**
+## Project Version 1 – **Due Sunday 10/14/2018, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and JQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
