@@ -50,6 +50,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [Learn by Doing - Code School](https://www.codeschool.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [CSS-Tricks](https://css-tricks.com/)
+- [CSS Selectors Game](http://flukeout.github.io)
 - [Media Queries](https://mediaqueri.es/)
 - [HTML5 Rocks - A resource for open web HTML5 developers](https://www.html5rocks.com/en/)
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
