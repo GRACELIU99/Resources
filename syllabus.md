@@ -1,4 +1,4 @@
-# MIS3690-03 Web Technologies - 2018 Fall - Syllabus
+# MIS3690 Web Technologies - 2019 Summer - Syllabus
 
 - Class Time: Monday, Wednesday, 6:00PM - 9:10PM
 - Class Location: Gerber 101
