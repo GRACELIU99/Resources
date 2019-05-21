@@ -34,7 +34,7 @@ All the HTML codes must be your own (the only exceptions are the tags used by a 
 To start your project, you need to create a new repository in GitHub. Add me([zli@babson.edu](zli@babson.edu)) as a collaborator on GitHub for that repo.
 
 
-## Project Proposal – **Due Thursday, 9/13/2018, by 11:59 PM**
+## Project Proposal – **Due Wednesday, 5/29/2019, by 11:59 PM**
 This is a webpage that answers the following questions:
 
 - What is your website about? 
@@ -42,7 +42,7 @@ This is a webpage that answers the following questions:
 - Who is your target audience set?
 - What content do you plan to include in each page of your website? 
 
-As you think through your website, please remember that the ~~page~~ website must have at least 4 pages of content besides the homepage, sitemap, and contact/feedback pages. At least one of these four pages must be two-levels below the home page (the landing point).
+As you think through your website, please remember that the website must have at least 4 pages of content besides the homepage, sitemap, and contact/feedback pages.
 
 This first version is worth **5 points**. 
 
@@ -50,7 +50,7 @@ This first version is worth **5 points**.
 Please create it using a web page, save this page to project repository. Commit/push to GitHub.
 
 
-## Project Version 1 – **Due Sunday 10/14/2018, by 11:59 PM**
+## Project Version 1 – **Due Sunday 6/9/2019, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and JQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -69,14 +69,14 @@ This first version is worth **35 points**.
 - Site-Map is included (see sample site map at https://www.apple.com/sitemap). (5) 
 - Contact page included with a feedback form. (3) 
 - At least 2 of the 4 content pages are completed with informative and relevant content. (3) 
-- One of the 4 content pages must be a child of one of the other 3 content pages. This “child” page may or may not be completed with content, but, must exist at least as a work-in-progress page. (2) 
+
 - Navigation menu is located in the same place on each page. (3)
 - Links to the site-map page and the contact/feedback page must be available from the navigation menu or from links at the bottom of the page. (2) 
 
 ### Submission:
 Save all the files in project folder. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [tags and release](https://help.github.com/articles/working-with-tags/).
 
-## Project Version 2 – **Due ~~11/02/2018~~ 11/11/2018, by 11:59 PM**
+## Project Version 2 – **Due Friday, 6/21/2018, by 11:59 PM**
 This version has 2 parts. First, you extend your Version 1 by adding CSS and by filling in the gaps that may exist. Second, you must have your external host and domain name available with just the Home Page (index page) uploaded to the external host.
 
 This deliverable is worth **25 points**. 
@@ -95,7 +95,7 @@ This deliverable is worth **25 points**.
 1. Save all the files in project repo. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn [tags and release](https://help.github.com/articles/working-with-tags/). 
 2. Upload your home page (required) and any other pages (optional) to the external host. Add a link to your LOW page to the external host. 
 
-## Project Final – **Due 12/06/2018, by 11:59 PM**
+## Project Final – **Due 7/1/2018, by 11:59 PM**
 The final version of the project must have the full-set of project files on GitHub and linked to your LOW page. It also includes the full-set of project files loaded to the external hosting site and linked to the LOW page.
 
 This deliverable is worth **35 points**. 
