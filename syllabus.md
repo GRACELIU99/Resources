@@ -18,10 +18,10 @@ If you need help outside of class and office hours, use Slack.
 - Blackboard
   - What: The default course site... not my favorite
   - Used for: traditional stuff (Announcements, class notes...)
-- [GitHub repositories](https://github.com/2018Fall-MIS3690-03)
+- [GitHub repositories](https://github.com/2019summer-mis3690)
   - What: Course GitHub repositories
   - Used for: materials; demo codes; homework/exam starter code.
-- [Slack message channel](mis3690-2019summer.slack.com)
+- [Slack message channel](https://mis3690-2019summer.slack.com)
   - What: Course Slack channel.
   - Used for: debugging help, clarifications, in-class real-time discussion and random chat.
 
