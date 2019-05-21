@@ -4,7 +4,7 @@
 
 The term project requires you to conceptualize, design, and implement a website. This is an individual effort. The website must be published using two hosts: (a) the internal server provided to you by Babson as part of this course and (b) an external hosting site such as GoDaddy or BlueHost. It is important that the hosting service you use must provide you with advertisement-free service (i.e., your webpages must not have advertisements and there must be no “pop-up” advertisements). You will be required to purchase a domain and pay a hosting-fee for the service, which might total to about \$15-\$40. These charges are separate from the tuition charges for the term (sort of like buying text books for a course). 
 
-The project is to be developed throughout the term and completed in 2 intermediate stages plus the final submission. It also requires two different but related deliverables: the proposal document and the permissions document. The project must be completed and submitted to the instructor by the last day of class, December 6th, 2018. All intermediate stages must be submitted on the day it is due. Each intermediate deliverable is graded and late submissions are penalized 3 points for every day it is late. Extensions may be granted at the instructor’s discretion provided you make the request before the due-date. Every deliverable is mandatory and has to be submitted, even if it is late.
+The project is to be developed throughout the term and completed in 2 intermediate stages plus the final submission. It also requires two different but related deliverables: the proposal document and the permissions document. The project must be completed and submitted to the instructor by the last day of class. All intermediate stages must be submitted on the day it is due. Each intermediate deliverable is graded and late submissions are penalized 3 points for every day it is late. Extensions may be granted at the instructor’s discretion provided you make the request before the due-date. Every deliverable is mandatory and has to be submitted, even if it is late.
 
 ## Examples of Term Project:
 
@@ -76,7 +76,7 @@ This first version is worth **35 points**.
 ### Submission:
 Save all the files in project folder. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [tags and release](https://help.github.com/articles/working-with-tags/).
 
-## Project Version 2 – **Due Friday, 6/21/2018, by 11:59 PM**
+## Project Version 2 – **Due Friday, 6/21/2019, by 11:59 PM**
 This version has 2 parts. First, you extend your Version 1 by adding CSS and by filling in the gaps that may exist. Second, you must have your external host and domain name available with just the Home Page (index page) uploaded to the external host.
 
 This deliverable is worth **25 points**. 
@@ -95,7 +95,7 @@ This deliverable is worth **25 points**.
 1. Save all the files in project repo. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn [tags and release](https://help.github.com/articles/working-with-tags/). 
 2. Upload your home page (required) and any other pages (optional) to the external host. Add a link to your LOW page to the external host. 
 
-## Project Final – **Due 7/1/2018, by 11:59 PM**
+## Project Final – **Due 7/1/2019, by 11:59 PM**
 The final version of the project must have the full-set of project files on GitHub and linked to your LOW page. It also includes the full-set of project files loaded to the external hosting site and linked to the LOW page.
 
 This deliverable is worth **35 points**. 
