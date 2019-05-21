@@ -1,30 +1,32 @@
 # MIS3690-03 Web Technologies - 2018 Fall - Syllabus
 
-- Class Time: Tuesday, Thursday, 1:15PM- 2:50PM
-- Class Location: Horn Computer Center 160
+- Class Time: Monday, Wednesday, 6:00PM - 9:10PM
+- Class Location: Gerber 101
 
 ## Instructor Info
+
 - Instructor: Dr. Zhi Li
 - Office: Babson Hall 216D
-- E-mail: [zli@babson.edu](mailto:zli@babson.edu) 
-- Phone: (781)239-5915 
-- Office Hours: Tuesday, Thursday, 4:40PM – 6:00 PM or by
-  Appointment
+- E-mail: [zli@babson.edu](mailto:zli@babson.edu)
+- Phone: (781)239-5915
+- Office Hours: Wednesday, 3:00PM – 4:30PM or by Appointment
 
 ## Communication
-If you need help outside of class and office hours, use Slack or Piazza.
+
+If you need help outside of class and office hours, use Slack.
 
 - Blackboard
-    - What: The default course site... not my favorite
-    - Used for: traditional stuff (Announcements, class notes...)
+  - What: The default course site... not my favorite
+  - Used for: traditional stuff (Announcements, class notes...)
 - [GitHub repositories](https://github.com/2018Fall-MIS3690-03)
-    - What: Course GitHub repositories
-    - Used for: materials; demo codes; homework/exam starter code.
-- [Slack message channel](mis3690-2018fall.slack.com)
-    - What: Course Slack channel.
-    - Used for: debugging help, clarifications, in-class real-time discussion and random chat.
+  - What: Course GitHub repositories
+  - Used for: materials; demo codes; homework/exam starter code.
+- [Slack message channel](mis3690-2019summer.slack.com)
+  - What: Course Slack channel.
+  - Used for: debugging help, clarifications, in-class real-time discussion and random chat.
 
 ## Course Description
+
 The goal of this course is to provide working experience with the full range of front-end technology needed to produce a modern website. Students will learn important topics of web design and programming including an in-depth study of HTML, CSS and JavaScript. In addition, students will be introduced to jQuery and Bootstrap in this class. The following are the specific objectives:
 
 - To understand the architecture of the World Wide Web;
@@ -41,43 +43,48 @@ A basic knowledge of the use of a personal computer employing Windows and Micros
 
 ## Textbook
 
-There are no required texts for this course. All course material will be presented in PowerPoint format and posted on Blackboard/GitHub. However, students are encouraged to purchase books on HTML, CSS and JavaScript for reference and additional support, if needed. The following source is particularly useful: [W3Schools](http://www.w3schools.com). 
+There are no required texts for this course. All course material will be presented in PowerPoint format and posted on Blackboard/GitHub. However, students are encouraged to purchase books on HTML, CSS and JavaScript for reference and additional support, if needed. The following source is particularly useful: [W3Schools](http://www.w3schools.com).
 
 ## Software
+
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [Chrome web browser](https://www.google.com/chrome/)
 
 ### Source Control
-- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README and the following folders:
-    - classwork
-    - homework
 
-    You also need to add me as a collaborator on the repo.
+- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README and the following folders:
+
+  - classwork
+  - homework
+
+  You also need to add me as a collaborator on the repo.
 
 ### Text Editors (pick one)
-- [VS Code](https://code.visualstudio.com)
+
+- [VS Code](https://code.visualstudio.com): I will use this in class.
 - [Sublime Text 3](https://www.sublimetext.com/)
 - Notepad (you know I am kidding, right?)
 
 ## Grading
-- In-Class Labs  	15%
-- Quizzes            5%
-- Graded Homework  	20% 
-- Term Project  	30%
-- Exam   	        30%
 
-| Grade | Range |
-| :-- | :-------: |
-| A | 94-100 |
-| A- | 90-93.99 |
-| B+ | 87-89.99 |
-| B | 84-86.99 |
-| B- | 80-83.99 |
-| C+ | 77-79.99 |
-| C | 74-76.99 |
-| C- | 70-73.99 |
-| D | 60-69.99 |
-| F | 0-59.99 |
+- In-Class Labs 15%
+- Quizzes 10%
+- Graded Homework 20%
+- Term Project 25%
+- Exam 30%
+
+| Grade |  Range   |
+| :---- | :------: |
+| A     |  94-100  |
+| A-    | 90-93.99 |
+| B+    | 87-89.99 |
+| B     | 84-86.99 |
+| B-    | 80-83.99 |
+| C+    | 77-79.99 |
+| C     | 74-76.99 |
+| C-    | 70-73.99 |
+| D     | 60-69.99 |
+| F     | 0-59.99  |
 
 ## Private Repository for the Course:
 
@@ -85,23 +92,23 @@ Your first task in this course is to create your web page for this course. This 
 
 ## Project
 
-The term project is an individual website development effort, which involves the conception, design and implementation of a website. You must publish your site to an advertising-free hosting service. These will typically cost you a hosting service fee and a domain registration fee, totaling about $20-40. _You will be responsible for paying this fee separate from the tuition charges during the term, as indicated in the course catalog._ Deliverables are due periodically during the semester, shown in the course schedule. Although we will not have any class presentations of projects, the instructor may ask specific students to present projects based on value it might add to the class. More details will be posted soon.
+The term project is an individual website development effort, which involves the conception, design and implementation of a website. You must publish your site to an advertising-free hosting service. These will typically cost you a hosting service fee and a domain registration fee, totaling about \$20-40. _You will be responsible for paying this fee separate from the tuition charges during the term, as indicated in the course catalog._ Deliverables are due periodically during the semester, shown in the course schedule. Although we will not have any class presentations of projects, the instructor may ask specific students to present projects based on value it might add to the class. More details will be posted soon.
 
 ## Graded Homework:
 
-There will be a total of 5-6 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. Five points will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor. 
+There will be a total of 5-6 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. Five points will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor.
 
 ## In-Class Exercises:
 
 In almost every class we will be completing a few small hands-on exercises (usually labeled as “In Class….” on the class slides). Some of you may complete these exercises in class, but, you do have until 11:59 pm the next calendar day (not the next class day) to complete it and sync it. Class Exercises will be graded as Submitted, Excused, or Not Submitted. If you miss a class, you will still need to finish the in-class exercise. There will be about 16 to 20 exercises in total - two excuses are allowed for the semester, with additional excuses at the discretion of the instructor.
 
-## Examination: 
+## Examination:
 
-There will be one exam on 11/08. The exam is in-class, hands-on, open book, open notes, open web exam. The exam will be about 95 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. Kindly make alternate arrangements if you believe you have a conflict after checking the course schedule below.
+There will be one exam on 06/21. The exam is in-class, hands-on, open book, open notes, open web exam. The exam will be about 95 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. Kindly make alternate arrangements if you believe you have a conflict after checking the course schedule below.
 
 ## Course Policies:
 
-- **Missed Classes**: Students are required to let me know if you are going to miss a class. Any student missing class is responsible for obtaining all material that may have been distributed on class days when he/she was absent. 
+- **Missed Classes**: Students are required to let me know if you are going to miss a class. Any student missing class is responsible for obtaining all material that may have been distributed on class days when he/she was absent.
 
 - **Need for Academic Accommodation**: Babson College is committed to providing equal educational opportunities for students with disabilities. Any student who is entitled to an academic accommodation based on the impact of a documented disability should contact me privately during office hours to discuss his or her specific needs. Please also contact the Office of Academic Services at 781-239-4075 or in Hollister Hall to coordinate reasonable accommodations.
 
