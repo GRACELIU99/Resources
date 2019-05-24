@@ -3,6 +3,7 @@
 
 
 - [Syllabus](syllabus.md)
+- [Project](project.md)
 - [Schedule](schedule.xlsx) (subject to minor changes)
 
 
